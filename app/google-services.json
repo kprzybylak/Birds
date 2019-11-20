@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "390643722138",
+    "firebase_url": "https://birds-18f5e.firebaseio.com",
+    "project_id": "birds-18f5e",
+    "storage_bucket": "birds-18f5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390643722138:android:a22cd8e504609f3daefc23",
+        "android_client_info": {
+          "package_name": "com.example.birds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390643722138-0tuion3injmdsg4vep638mudel59b0ak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.birds",
+            "certificate_hash": "885a28b5fcd996c147d35bf328c2a66be657337a"
+          }
+        },
+        {
+          "client_id": "390643722138-brnpttmeeqcl1om024g10t8too2msbt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ2favWCApa-acB1mSNK15vscYIcpTUdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390643722138-brnpttmeeqcl1om024g10t8too2msbt5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
